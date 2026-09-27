@@ -15,7 +15,7 @@
     "student-management",
     "crud"
   ],
-  "author": "Abhinav Bajpai",
+  "author": "Himanshu Yadav",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^18.0.4",
